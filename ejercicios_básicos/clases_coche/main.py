@@ -19,5 +19,5 @@ class vehiculo_Mas(Vehiculo):
 nuevo_coche = Vehiculo('ferrari', 'rojo')
 print(nuevo_coche)
 print("--------------------------------------------")
-nuevo_coche2 = vehiculo_Mas('BMW', 'azul', '250', '4')
+nuevo_coche2 = vehiculo_Mas('BMW', 'azul', '200', '4')
 print(nuevo_coche2)
