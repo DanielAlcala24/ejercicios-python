@@ -1,0 +1,23 @@
+algunos ejercicios intermedios en Python para seguir avanzando en tus habilidades:
+
+Validador de contraseñas: Crea un programa que valide la seguridad de una contraseña según ciertas reglas, como tener una longitud mínima, contener al menos una letra mayúscula, una letra minúscula, un número y un carácter especial.
+
+Cifrado de mensajes: Crea un programa que permita cifrar y descifrar mensajes utilizando diferentes métodos de cifrado, como el cifrado César o el cifrado de sustitución.
+
+Análisis de texto: Crea un programa que analice un texto y muestre información como la cantidad de palabras, la cantidad de caracteres, la frecuencia de cada letra y la frecuencia de cada palabra.
+
+Generador de nombres de usuario: Crea un programa que genere nombres de usuario aleatorios a partir de una lista de nombres y apellidos.
+
+Calculadora científica: Crea un programa que permita realizar operaciones matemáticas más complejas, como el cálculo de funciones trigonométricas, exponenciales o logarítmicas.
+
+Juego de ahorcado: Crea un programa que permita jugar al ahorcado, donde el usuario debe adivinar una palabra oculta letra por letra antes de que se complete un dibujo de un ahorcado.
+
+Búsqueda en texto: Crea un programa que busque una cadena de texto en un archivo o en varios archivos en un directorio y muestre las líneas en las que se encuentra la cadena de texto.
+
+Simulador de redes sociales: Crea un programa que simule el funcionamiento de una red social, donde los usuarios pueden crear perfiles, publicar mensajes y seguir a otros usuarios.
+
+Reconocimiento de imágenes: Crea un programa que utilice técnicas de aprendizaje automático para reconocer objetos en imágenes y clasificarlas en diferentes categorías.
+
+Juego de laberinto: Crea un programa que permita al usuario jugar un juego de laberinto, donde debe moverse por un laberinto y encontrar la salida antes de que se acabe el tiempo.
+
+¡Espero que estos ejercicios te desafíen y te ayuden a mejorar tus habilidades en Python!

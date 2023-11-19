@@ -1,0 +1,21 @@
+ejercicios prácticos en Python para que puedas poner en práctica tus habilidades:
+
+Calculadora básica: Crea un programa que pida al usuario dos números y una operación (suma, resta, multiplicación o división) y muestre el resultado de dicha operación.
+
+Contador de palabras: Crea un programa que pida al usuario un texto y cuente cuántas veces aparece cada palabra en el texto.
+
+Convertidor de temperaturas: Crea un programa que convierta una temperatura en grados Celsius a grados Fahrenheit o viceversa, según la elección del usuario.
+
+Juego de adivinanza: Crea un programa que genere un número aleatorio entre 1 y 100 y le pida al usuario que adivine el número. El programa debe indicar si el número adivinado es mayor o menor que el número generado hasta que el usuario adivine correctamente.
+
+Cálculo de estadísticas: Crea un programa que pida al usuario una lista de números y calcule la media, la mediana y la desviación estándar de dicha lista.
+
+Generador de contraseñas: Crea un programa que genere una contraseña aleatoria de 8 caracteres que incluya letras, números y símbolos.
+
+Convertidor de unidades: Crea un programa que convierta una cantidad en metros a pies, pulgadas y centímetros.
+
+Ordenamiento de listas: Crea un programa que ordene una lista de números de menor a mayor o de mayor a menor, según la elección del usuario.
+
+Búsqueda de archivos: Crea un programa que busque todos los archivos de un directorio que tengan una extensión específica y los muestre en pantalla.
+
+Juego de piedra, papel o tijeras: Crea un programa que permita al usuario jugar piedra, papel o tijeras contra la computadora y muestre quién ganó cada ronda y quién ganó el juego en general.
