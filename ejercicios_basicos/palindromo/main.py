@@ -14,7 +14,9 @@ def reverse(texto):
 def es_palindromo(texto):
     texto = no_space(texto)
     texto_al_reves = reverse(texto)
-    return texto == texto_al_reves
+    return texto.lower() == texto_al_reves.lower()
 
-print(es_palindromo("amo la paloma"))
+palabra = es_palindromo(input("coloca la palabra "))
+
+print(palabra)
     
