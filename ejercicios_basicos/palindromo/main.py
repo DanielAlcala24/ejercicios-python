@@ -5,7 +5,16 @@ def no_space(texto):
             nuevo_texto += char
     return nuevo_texto
 
+def reverse(texto):
+    texto_al_reves = ""
+    for char in texto:
+        texto_al_reves = char + texto_al_reves
+    return texto_al_reves
+
 def es_palindromo(texto):
     texto = no_space(texto)
-    print(texto)
+    texto_al_reves = reverse(texto)
+    return texto == texto_al_reves
+
+print(es_palindromo("amo la paloma"))
     
