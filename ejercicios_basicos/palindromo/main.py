@@ -3,6 +3,7 @@ def no_space(texto):
     for char in texto:
         if char != " ":
             nuevo_texto += char
+    return nuevo_texto
 
 def es_palindromo(texto):
     texto = no_space(texto)
